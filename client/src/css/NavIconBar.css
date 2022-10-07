@@ -1,0 +1,47 @@
+.navBarIconContainer{
+    color: aliceblue;
+    background-color:  #464545;
+    height: 95vh;
+    position: fixed;
+    padding: 1%;
+}
+
+.IconDiv{
+    display: flex;
+    vertical-align: middle;
+    padding: 20% 3% 10% 3%;
+}
+
+.IconContainer{
+    padding: 2%;
+}
+
+.true > .IconContainer > .Icon{
+    color: #5a8388 !important;
+}
+
+/* shownav = true */
+.navBarIconContainerText{
+    color: aliceblue;
+    background-color:  #464545;
+    height: 95vh;
+    position: fixed;
+}
+
+.IconDivText{
+    display: flex;
+    vertical-align: middle;
+    padding: 10% 3% 10% 3%;
+}
+
+.IconContainerText{
+    padding: 2%;
+}
+
+.TextContainer{
+    padding: 5% 2% 2% 2%;
+}
+
+.true > .IconContainerText {
+    color: #5a8388 !important;
+}

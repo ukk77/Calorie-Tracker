@@ -1,0 +1,29 @@
+.headerContainer{
+    background-color: #00BBD1;
+    margin: 0% 0% 0% 0%;
+    padding: 0.5%;
+    height: 6vh; 
+}
+
+.headerSubContainer{
+    display: flex;
+}
+
+.buttonContainer{
+    width: 40%;
+}
+
+.menuButton{
+    padding: 1%;
+    margin-top: 0.1%;
+}
+
+.textContainer{
+    
+}
+
+.subTextContainer{
+    color: black;
+    font-size: 40px;
+    margin-top: 2%;
+}

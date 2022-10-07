@@ -1,0 +1,22 @@
+"client-install": "npm install --   prefix client" -- prefix allow to run npm install in client folder -- 
+                                    https://stackoverflow.com/questions/36172442/how-can-i-get-npm-start-at-a-different-directory
+
+
+npm run {any command from scripts in package.json} -- to run any command
+e.g 'npm run start' to run script named start in scripts
+
+
+model - has structur of schemas/ database schemas
+view - client side
+controller - execute all things you want to do with data
+routes - includes all diff routes
+
+https://uxdesign.cc/top-navigation-vs-side-navigation-wich-one-is-better-24aa5d835643 -- side menu vs top menu
+
+https://www.freecodecamp.org/news/10-points-to-remember-thatll-help-you-master-coding-in-reactjs-library-d0520d8c73d8/ - best practices
+
+Dark/Light theme option? --> https://www.canva.com/colors/color-palettes/calm-perspective/ --> check this for theme
+
+Body Background - light color so everything else pops out
+Header and Side menu - same color (dark bg with light text so easy visibility)
+

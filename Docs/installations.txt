@@ -1,0 +1,10 @@
+nodemon - https://www.npmjs.com/package/nodemon -- automatically restarts the node server on change in file
+concurrently - https://www.npmjs.com/package/concurrently -- to run multiple commands automatically instead of writing and running seperately
+express - https://expressjs.com/en/starter/installing.html -- Express is a minimal and flexible Node.js web application framework that provides a robust set of 
+        features for web and mobile applications. 
+material UI - https://mui.com/material-ui/getting-started/overview/
+
+
+
+
+

@@ -1,0 +1,9 @@
+.CardContainer{
+    background-color: white;
+    border: 1px black solid;
+    border-radius: 4px;
+    padding: 1% 5% 1% 5%;
+    margin: 2.5% 5% 2.5% 5%;
+    width: 30vh;
+}
+

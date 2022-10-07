@@ -1,0 +1,17 @@
+.HomeSubContainer{
+    display: flex;
+}
+
+.staticDataSubContainer{
+    margin: 1% 5% 1% 1%;
+    border: 1px blue solid;
+    width: 80vh;
+    height: 80vh;
+}
+
+.userInteractionSubContainer{
+    margin: 1% 5% 1% 5%;
+    border: 1px red solid;
+    width: 80vh;
+    height: 80vh;
+}
